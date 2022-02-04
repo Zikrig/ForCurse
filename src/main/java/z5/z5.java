@@ -1,10 +1,7 @@
 package z5;
 
-
-
 import java.util.*;
 import java.util.Comparator;
-
 
 public class z5 {
 
