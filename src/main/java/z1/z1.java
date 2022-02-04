@@ -11,6 +11,7 @@ public class z1 {
  Scanner in = new Scanner(System.in);
  String str = in.nextLine();
  int dlina = str.length();
+ 
  int i;
  char b=' ';
  for(i=0; i<dlina;i++){
